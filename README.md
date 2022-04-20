@@ -2,7 +2,9 @@
 
 I'm a Full Stack Developer 👩‍💻 living in Argentina. 
 
-The projects that you'll find here were developed with PERN and MERN stack: PostgreSQL/MongoDB, Express, React.js, Node.
+The projects that you'll find here were developed with PERN and MERN stack: PostgreSQL/MongoDB, Express, React.js, Node. 
+
+Keep reading for more details!
 
 ### Projects 
 
