@@ -8,7 +8,9 @@ The projects that you'll find here were developed with PERN and MERN stack: Post
 
 ### 💻 Ecommerce "Futurum"
 
-5 developers working together to develop an ecommerce platform for technology courses. 
+Futurum is an Ecommerce Platform for technology courses. 
+
+Project made with 4 developers in 2 weeks. 
 
 ### 📱 Mobile App "El Club del Plan" - CEIBO DIGITAL
 
