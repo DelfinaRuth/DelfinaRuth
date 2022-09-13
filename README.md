@@ -1,6 +1,6 @@
 ### Hi there, I'm Delfi 👋 
 
-I'm a Full Stack Developer 👩‍💻 living in Argentina. 
+I'm a Frontend Developer 👩‍💻 living in Argentina. 
 
 The projects that you'll find here were developed with PERN and MERN stack: PostgreSQL/MongoDB, Express, React.js, React.Native, Node.js. 
 
