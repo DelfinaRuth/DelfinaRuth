@@ -1,6 +1,6 @@
 ### Hi there, I'm Delfi 👋 
 
-I'm a Frontend Developer 👩‍💻 based in Argentina. 
+I'm a Frontend Developer & a junior UX UI designer 👩‍💻 based in Argentina. 
 
 The projects you'll find here were developed with PERN and MERN stack: PostgreSQL/MongoDB, Express, React.js, React Native, Node.js. 
 
